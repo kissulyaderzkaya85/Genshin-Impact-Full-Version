@@ -261,3 +261,6 @@ This repository serves as the official landing page for Genshin Impact. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Genshin Impact today!**
+
+---
+**Last updated:** 2026-09-10 05:34:49 UTC
