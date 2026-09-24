@@ -263,4 +263,4 @@ This repository serves as the official landing page for Genshin Impact. The soft
 **Get the most recent version of Genshin Impact today!**
 
 ---
-**Last updated:** 2026-09-24 00:13:06 UTC
+**Last updated:** 2026-09-24 05:44:31 UTC
